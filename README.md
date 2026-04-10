@@ -98,7 +98,7 @@ Udemy
 ---
 
 📄 CV  
-Download My CV: https://r-wol.github.io/portfolio/CV_Ruan_Wolmarans.pdf
+Download My CV: https://r-wol.github.io/portfolio/
 
 ---
 
