@@ -79,21 +79,21 @@ I’m currently seeking **internship or junior developer opportunities** where I
 Belgium Campus iTversity  
 📅 Expected Graduation: 2027  
 
-🎓 **Full Stack Web Developer**
-School of IT - Software Training Institute
-📅 Completion: 2023
+🎓 **Full Stack Web Developer**  
+School of IT - Software Training Institute  
+📅 Completion: 2023  
 
-🎓 **Software Engineering in Python & JavaScript**
-School of IT - Software Training Institute
-📅 Completion: 2023
+🎓 **Software Engineering in Python & JavaScript**  
+School of IT - Software Training Institute  
+📅 Completion: 2023  
 
-🎓 **The Complete Full-Stack Web Development Bootcamp**
-Udemy
-📅 Completion: 2022
+🎓 **The Complete Full-Stack Web Development Bootcamp**  
+Udemy  
+📅 Completion: 2022  
 
-🎓 **100 Days of Code: The Complete Python Pro Bootcamp**
-Udemy
-📅 Completion: 2022
+🎓 **100 Days of Code: The Complete Python Pro Bootcamp**  
+Udemy  
+📅 Completion: 2022  
 
 ---
 
